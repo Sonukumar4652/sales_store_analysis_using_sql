@@ -1,4 +1,4 @@
-transaction_id,customer_id,customer_name,customer_age,gender,product_id,product_name,product_category,quantity,price,payment_mode,purchase_date,time_of_purchase,status
+transaction_id,customer_id,customer_name,customer_age,gender,product_id,product_name,product_category,quantiy,prce,payment_mode,purchase_date,time_of_purchase,status
 TXN886726,CUST4481,Dhanush Bhakta,41,F,P8464,Sofa,Furniture,5,21410,UPI,29-08-2023,08:16:22,pending
 TXN941069,CUST9221,Anahita Shenoy,46,F,P7932,Sunglasses,Accessories,2,1156,Cash,04-06-2023,16:24:21,pending
 TXN132714,CUST9088,Samaira Bora,29,Female,P9223,Sunglasses,Accessories,4,13828,UPI,16-09-2023,17:36:13,cancelled
@@ -2004,3 +2004,4 @@ TXN801958,CUST7264,Jayesh Bandi,30,M,P7596,Bed,Furniture,3,1818,Debit Card,15-05
 TXN416394,CUST3887,Amani Shukla,25,M,P4981,Watch,Accessories,4,19908,Cash,05-03-2023,15:12:22,pending
 TXN541709,CUST8436,Siya Mane,39,Male,P9301,Belt,Accessories,1,2721,Cash,17-09-2023,02:50:59,returned
 TXN814419,CUST9709,Suhana Sule,26,M,P1106,Notebook,Books,5,3165,Credit Card,08-06-2023,21:01:59,returned
+
